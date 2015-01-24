@@ -1,0 +1,13 @@
+{
+    "title": "Ceratrior",
+    "name": "ceratrior",
+    "description": "Ceratrior theme for Brackets.",
+		"homepage": "https://github.com/voronar/brackets-theme-ceratrior",
+    "version": "1.0.0",
+    "author": "Kirill A. Khalitov voronar@gmail.com",
+    "license": "MIT",
+    "theme": {
+		  "file": "ceratrior.css",
+		  "dark": true
+    }
+}
